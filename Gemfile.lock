@@ -17,7 +17,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2019.1009)
     multi_xml (0.6.0)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
